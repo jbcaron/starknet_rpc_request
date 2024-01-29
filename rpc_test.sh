@@ -1,4 +1,4 @@
-l!/bin/bash
+#!/bin/bash
 
 # Color and style codes
 RED='\033[0;31m'
